@@ -3,6 +3,7 @@ An implementation of algorithms from Russell and Norvig's Artificial Intelligenc
 Original code on: 
 http://code.google.com/p/aima-python/
 
-This fork fixes some issues so that doctests.py runs without throwing errors. It also tries to fix the failures the code currently throws and tries to implement the missing algorithms.
+This fork tries to implement some of the missing algorithms.
 
-This code is released under the same license as the original code. See http://www.opensource.org/licenses/mit-license.php for more information.
+This code is released under the same license as the original code. 
+See http://www.opensource.org/licenses/mit-license.php for more information.
