@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/60/trunk
+END
+doctests.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/29/trunk/doctests.py
+END
+nlp.py
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/29/trunk/nlp.py
+END
+games.py
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/54/trunk/games.py
+END
+rl.py
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/rl.py
+END
+logic.py
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/35/trunk/logic.py
+END
+learning.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/39/trunk/learning.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/57/trunk/utils.py
+END
+probability.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/probability.py
+END
+mdp.py
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/42/trunk/mdp.py
+END
+agents.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/55/trunk/agents.py
+END
+text.py
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/31/trunk/text.py
+END
+csp.py
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/50/trunk/csp.py
+END
+search.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/60/trunk/search.py
+END
+planning.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/planning.py
+END
